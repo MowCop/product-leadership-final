@@ -19,8 +19,7 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 
 ## The strategy in one sentence
 
-_What is your scenario, where will you play, and what is the single hard bet you're making?_
-
+Fable Growth: keep high-engagement 25–45 users after their first hard stretch by personalising Fable's existing meditation, sleep and breathing content with an AI model built on their own history, so they stay well in between and come straight back when stress returns, and we won't build a community layer to get there.
 ___
 
 ## How to submit
