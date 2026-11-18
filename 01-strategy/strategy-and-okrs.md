@@ -22,7 +22,7 @@
 >
 > - **KR1:** Raise 120-day retention for the high-engagement cohort (users with 3+ sessions a week in their first 60 days) from ~30% to 45% (estimated baseline: most highly engaged users leave at 90–120 days, so fewer than a third stay). Retention here means still using Fable (at least one session in the 14 days up to day 120), not just still subscribed, so free and premium users both count.
 > - **KR2:** The share of high-engagement users doing at least one session in every week from day 90 to day 180 rises from ~15% to 30%, and their average self-reported wellbeing score from opt-in check-ins is 10% higher at day 180 than at day 90 (among users who respond at both points).  Users keep practising and feel better for it.
-> - **KR3:** Of high-engagement users who lapse, 35% return within 30 days of an opt-in check-in that flags a tough period (up from ~15%), with half of departing premium users choosing to pause rather than cancel. Today the pause rate is 0% because Fable has no pause option.
+> - **KR3:** Of high-engagement users who lapse, 35% return within 6 months (up from ~15% today), helped by opt-in check-ins that let users flag a tough period. Half of departing premium users choose to pause rather than cancel; today the pause rate is 0% because Fable has no pause option.
 
 ## 4. AI pressure-test
 
