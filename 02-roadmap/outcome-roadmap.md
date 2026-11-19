@@ -1,3 +1,23 @@
+# Outcome Roadmap & Trade-off Memo
+
+> Module 2 · Turn Your Strategy into an Outcome Roadmap
+
+## 1. Trade-off memo
+
+> **Rock 1:** _____
+>
+> **Rock 2:** _____
+>
+> **Rock 3:** _____
+>
+> **Hard no 1:** _____
+>
+> **Hard no 2:** _____
+>
+> **Hard no 3:** _____
+
+## 2. Outcome roadmap
+
 | Horizon | Outcome / bet | Owning team(s) | Success signal |
 |---|---|---|---|
 | Now (0 to 3 mo) | (KR2) We bet that AI daily check-ins built on each user's own history of what helped will keep users practising weekly after their first hard stretch passes, for high-engagement users from day 60 to day 180<br>(KR3) We bet that notifications arriving at the right local time will raise check-in opt-in and early tough-period flags, for high-engagement users in every timezone<br>(KR1) We bet that a gentle weekly streak, adapted by the AI to each user's week, will carry practice past the 90–120-day drop-off, for high-engagement users approaching day 60–90 | Product, AI/ML, Clinical, Privacy & Legal<br>Engineering, Growth<br>Growth, Design, AI/ML | Weekly practice from day 90 heads towards 30%, and all AI output passes guardrail review<br>Notifications land on time, and opt-in and flag rates rise<br>Streak users' 120-day retention beats the control group and heads towards 45% |
