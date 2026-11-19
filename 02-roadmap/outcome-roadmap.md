@@ -1,25 +1,25 @@
-# Outcome Roadmap & Trade-off Memo
+# Outcome Roadmap & Trade-off Memo: Fable Growth
 
 > Module 2 · Turn Your Strategy into an Outcome Roadmap
 
 ## 1. Trade-off memo
 
-> **Rock 1:** _____
+> **Rock 1:** Add AI-generated daily check-in prompts personalized to user history (supports KR2): Personalised by AI daily check-ins, use this data to built on each user's own history, give 'high-engagement users' a reason to keep practising after their crisis passes. They support KR2: weekly practice from day 90 to 180 rising from ~15% to 30%, whilst the check-ins also capture the wellbeing scores.
 >
-> **Rock 2:** _____
+> **Rock 2:** Fix the notification system (wrong times, timezone bug) (supports KR3): The opt in check-ins required of KR3 depend on notifications arriving at the right time, and the timezone bug breaks Rock 1 and KR3. It’s low effort and high impact for the KR3 results strategy to work.
 >
-> **Rock 3:** _____
+> **Rock 3:** Add a daily streak feature to drive habit formation (supports KR1): A gentle weekly wellness streak, personalised by the AI to what matters to each user that week, builds a steady habit without guilt over missed days. It supports KR1: 120-day retention rises from ~30% to 45%. Streaks are standard in other wellness apps like Headspace and Calm and those deloyed in Fable stand out because they adapt to each user's history.
 >
-> **Hard no 1:** _____
+> **Hard no 1:** Launch a premium tier with therapist-matching: It's clinical, which my strategy rules out, and it's high effort (a therapist network, licensing and potential liability). Too much of a risk. Its a no, even though the CEO has asked for it.
 >
-> **Hard no 2:** _____
+> **Hard no 2:** Build a social layer: share your progress with friends: It's  my Module 1 hard no. We have one bet, with one team of 14; we'll revisit in a later phase once personalisation has proven itself.
 >
-> **Hard no 3:** _____
+> **Hard no 3:** Introduce “Fable for Teams”, a B2B workplace wellbeing offer: It's a different customer (B2B employers), so it would pull the team away from keeping the existing users.
 
 ## 2. Outcome roadmap
 
 | Horizon | Outcome / bet | Owning team(s) | Success signal |
 |---|---|---|---|
-| Now (0 to 3 mo) | _____ | _____ | _____ |
+| Now (0 to 3 mo) | Horizon	Outcome / bet	Owning team(s)	Success signal Now (0 to 3 mo)	1) Bet (KR2): We bet that AI daily check-ins built on each user’s own history of what helped will give them a reason to keep practising once their first hard stretch passes, for high-engagement 25–45 users from day 60 to day 180; 2) Bet (KR3): We bet that check-ins and nudges arriving at the right local time will lead more users to opt in to check-ins and flag tough periods early, for high-engagement users in every timezone; 3) Bet (KR1): We bet that a gentle weekly streak, adapted by the AI to what matters to each user that week, will turn practice from a hard stretch into a lasting habit past the 90–120-day drop-off, for high-engagement users approaching day 60–90	1) Product, AI/ML, Clinical (guardrails), Privacy & Legal (consent), Research; 2) Engineering, Growth; 3) Growth, Design, AI/ML, Research	1) The share of users practising weekly from day 90 moves towards KR2’s 30%, wellbeing check-ins are answered at both day 90 and day 180, and every AI prompt passes clinical-guardrail and privacy review; 2) Almost all notifications land within the user’s chosen local window, timezone complaints fall to near zero, and check-in opt-in and tough-period flags rise; 3) In an A/B test, streak users show higher 120-day retention than the control group, heading towards 45%, and missed-week feedback shows no rise in guilt Next (3 to 6 mo)	1) Flexible premium (pause / reactivate): it needs Now’s working notifications and tough-period flags to time the pause offer and the “welcome back” message; 2) Personalised win-back for lapsed users from the cohort: it can only personalise once check-ins have built each user’s history and a flag can trigger the return journey; 3) Content library expansion, including the new podcast format, tagged so the AI can surface it: check-in data from Now shows which content helps at which moment, so we produce what works rather than guessing; 4) AI model grounded on Fable’s journey data (first version of the co-pilot): it builds on the guardrail and consent processes proven on check-ins, at a scale the clinical team can review; 5) Load time from 4.2s to under 2s, plus WCAG 2.1 accessibility: these protect retention gains once Now has shown which journeys matter most, and accessibility is a legal duty with a date	1) Growth, Product, Finance, Engineering; 2) Growth, AI/ML, Content, Research; 3) Content, Clinical, AI/ML; 4) AI/ML, Clinical, Privacy & Legal, Data; 5) Engineering, Design, Legal	1) Half of departing premium users pause rather than cancel (KR3); 2) 35% of lapsed users return within 6 months, and returns are credited to personalisation (KR3, win-back metric); 3) Completion and save rates rise for AI-surfaced content, and podcast listening holds after day 90; 4) Co-pilot recommendations are rated helpful, with zero clinical-guardrail breaches; 5) Load time on 4G is under 2s, the WCAG audit passes, and drop-off in key journeys falls Later (6 to 12 mo)	1) Bet, not a commitment: a full AI co-pilot that knows what works for each user and guides them through future hard stretches faster; 2) Bet, not a commitment: hybrid pay-as-you-go pricing for users whose engagement drops between day 60 and day 90; 3) Bet, not a commitment: early, consented detection that stress is returning, based on non-clinical usage patterns, so Fable reaches out first; 4) Bet, not a commitment: onboarding rebuilt as a personalisation intake (preferences and consent) rather than a fix for top-of-funnel acquisition; 5) Bet, not a commitment: revisit the social layer once personalisation has proven itself	1) AI/ML, Product, Clinical; 2) Growth, Finance; 3) AI/ML, Clinical, Privacy & Legal, Research; 4) Product, Design, Privacy & Legal; 5) Product, Research	1) Time-to-return and time-to-feeling-better both fall when stress recurs; 2) Premium reactivation and revenue per lapsed user rise; 3) Users who receive outreach reactivate faster, with no privacy complaints; 4) More users finish onboarding with consent and preferences set; 5) Research shows demand from the retained cohort that doesn’t conflict with privacy | _____ | _____ |
 | Next (3 to 6 mo) | _____ | _____ | _____ |
 | Later (6 to 12 mo) | _____ | _____ | _____ |
